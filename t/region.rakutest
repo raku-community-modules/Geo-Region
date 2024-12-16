@@ -1,6 +1,5 @@
-use lib 'lib';
-
 use Test;
+
 use Geo::Region;
 
 plan 8;
@@ -123,3 +122,5 @@ subtest {
     ok $r.contains('UK'),  'contains deprecated country';
     is-deeply $r.countries, <GB>.list, 'only official countries';
 }, 'deprecated alias UK for GB';
+
+# vim: expandtab shiftwidth=4
