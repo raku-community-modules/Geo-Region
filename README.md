@@ -122,12 +122,12 @@ SEE ALSO
 AUTHOR
 ======
 
-Nick Patch
+Nova Patch
 
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2014 - 2018 Nick Patch
+Copyright 2014 - 2018 Nova Patch
 
 Copyright 2024 Raku Community
 

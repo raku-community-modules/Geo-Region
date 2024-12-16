@@ -268,11 +268,11 @@ Codes|http://unstats.un.org/unsd/methods/m49/m49regin.htm>
 
 =head1 AUTHOR
 
-Nick Patch
+Nova Patch
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2014 - 2018 Nick Patch
+Copyright 2014 - 2018 Nova Patch
 
 Copyright 2024 Raku Community
 

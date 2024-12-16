@@ -612,24 +612,22 @@ The 249 officially assigned ISO 3166-1 alpha-2 codes.
 
 =head1 SEE ALSO
 
-=item L<Geo::Region> — Geographical regions and groupings using UN M.49 and CLDR
-data
 =item L<Unicode CLDR: UN M.49 Territory
 Containment|http://unicode.org/cldr/charts/26/supplemental/territory_containment_un_m_49.html>
 =item L<United Nations: UN M.49 Standard Country, Area, & Region
 Codes|http://unstats.un.org/unsd/methods/m49/m49regin.htm>
-=item L<Geo::Region::Constant|https://metacpan.org/pod/Geo::Region::Constant>
-for Perl 5
 
 =head1 AUTHOR
 
-Nick Patch <patch@cpan.org>
+Nova Patch
 
 =head1 COPYRIGHT AND LICENSE
 
-© 2014 Nick Patch
+Copyright 2014 - 2018 Nova Patch
+
+Copyright 2024 Raku Community
 
 This library is free software; you can redistribute it and/or modify it under
-the same terms as Perl 6 itself.
+the same terms as Raku itself.
 
 =end pod
