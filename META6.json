@@ -1,14 +1,27 @@
 {
-    "perl"        : "6.*",
-    "name"        : "Geo::Region",
-    "license"     : "GPL-1.0+ OR Artistic-1.0-Perl",
-    "version"     : "*",
-    "author"      : "Nick Patch",
-    "description" : "Geographical regions and groupings using UN M.49 and CLDR data",
-    "depends"     : [],
-    "provides"    : {
-        "Geo::Region"       : "lib/Geo/Region.pm",
-        "Geo::Region::Enum" : "lib/Geo/Region/Enum.pm"
-    },
-    "source-url"  : "git://github.com/patch/geo-region-pm6.git"
+  "auth": "zef:raku-community-modules",
+  "author": "Nick Patch",
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Geographical regions and groupings using UN M.49 and CLDR data",
+  "license": "Artistic-2.0",
+  "name": "Geo::Region",
+  "perl": "6.*",
+  "provides": {
+    "Geo::Region": "lib/Geo/Region.rakumod",
+    "Geo::Region::Enum": "lib/Geo/Region/Enum.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/raku-community-modules/Geo-Region.git",
+  "tags": [
+    "CLDR",
+    "COUNTRY",
+    "REGION"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.2"
 }
